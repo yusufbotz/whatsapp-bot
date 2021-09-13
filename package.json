@@ -1,5 +1,5 @@
 {
-  "name": "YusufBotz",
+  "name": "ChikaBot",
   "version": "1.0.0",
   "description": "YusufBotz is a multipurpose WhatsApp bot using baileys-nodejs library!",
   "main": "main.js",
