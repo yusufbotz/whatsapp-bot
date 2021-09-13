@@ -1,7 +1,7 @@
 {
   "name": "yusuf-botz",
   "description": "Simple WhatsApp Bot",
-  "repository": "https://github.com/yusufbotz/yusuf-botzV1",
+  "repository": "https://github.com/yusufbotz/yusuf-botzV1-main",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQ3I3NnegnaM7IqhbU9dZvuTnuxyNzMbEcA&usqp=CAU",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"]
 }
