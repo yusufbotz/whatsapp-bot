@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStH_A0WKtnRtD_Bla6B71LjtP-GtYOkacYsg&usqp=CAU" alt="YUSUF BOTZ" width="500"/>
+<img src="file:///storage/emulated/0/Download/20210803_171942.webp" alt="YUSUF BOTZ" width="500"/>
 
 
 </p>
@@ -11,8 +11,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/yusufbotz/yusuf-botzV1-main"><img title="Followers" src="https://img.shields.io/github/followers/yusufbotz?color=blue&style=flat-square"></a>
-<a href="https://github.com/yusufbotz/yusuf-botzV1-main"><img title="Stars" src="https://img.shields.io/github/stars/yusufbotz/yusuf-botzV1-main?color=red&style=flat-square"></a>
-<a href="https://github.com/yusufbotz/yusuf-botzV1-main/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yusufbotz/yusuf-botzV1-main?color=red&style=flat-square"></a>
+<a href="https://github.com/yusufbotz/yusuf-botzV1-main"><img title="Stars" src="https://img.shields.io/github/stars/rashidsiregar28/chika-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/yusufbotz/yusuf-botzV1-main/network/members"><img title="Forks" src="https://img.shields.io/github/forks/rashidsiregar28/chika-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/yusufbotz/yusuf-botzV1-main/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yusufbotz/yusuf-botzV1-main?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
@@ -55,7 +55,7 @@
 ## For Windows
 ```bash
 git clone https://github.com/yusufbotz/yusuf-botzV1-main.git
-cd yusuf-botzV1-main-master
+cd yusuf-botzV1-main
 npm install
 node main pm2 start main.js
 ```
@@ -74,12 +74,12 @@ node main or pm2 start main.js
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/yusufbotz/yusuf-botzV1/blob/4d8dc8692e97e2ca60deaa8dc77dab551abf6523/config.json#L2)
-- Change botName on [this section](https://github.com/yusufbotz/yusuf-botzV1/blob/4d8dc8692e97e2ca60deaa8dc77dab551abf6523/config.json#L5)
-- Change Apikey Lolhuman on [this section](https://github.com/yusufbotz/yusuf-botzV1/blob/4d8dc8692e97e2ca60deaa8dc77dab551abf6523/config.json#L7)
-- Change Apikey Aqulz on [this section](https://github.com/yusufbotz/yusuf-botzV1/blob/4d8dc8692e97e2ca60deaa8dc77dab551abf6523/config.json#L10)
-- You can edit list and display menu or donate on [this section](https://github.com/yusufbotz/yusuf-botzV1/blob/main/help/ind.js)
-- You can add fiture on [this section](https://github.com/yusufbotz/yusuf-botzV1/blob/main/message/xinz.js)
+- Change ownerNumber on [this section](https://github.com/yusufbotz/yusuf-botzV1-main/blob/c7655d23f61cec09ddf82a462272074df398de45/config.json#L2)
+- Change botName on [this section](https://github.com/yusufbotz/yusuf-botzV1-main/blob/c7655d23f61cec09ddf82a462272074df398de45/config.json#L5)
+- Change Apikey Lolhuman on [this section](https://github.com/yusufbotz/yusuf-botzV1-main/blob/c7655d23f61cec09ddf82a462272074df398de45/config.json#L7)
+- Change Apikey Aqulz on [this section](https://github.com/yusufbotz/yusuf-botzV1-main/blob/c7655d23f61cec09ddf82a462272074df398de45/config.json#L10)
+- You can edit list and display menu or donate on [this section](https://github.com/yusufbotz/yusuf-botzV1-main/blob/master/help/ind.js)
+- You can add fiture on [this section](https://github.com/yusufbotz/yusuf-botzV1-main/blob/master/message/xinz.js)
 
 
 ## Installing the FFmpeg for Windows
