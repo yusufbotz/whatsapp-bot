@@ -40,17 +40,17 @@
     "parse-ms": "^2.1.0",
     "pet-pet-gif": "^1.0.9",
     "qrcode": "^1.4.4",
-    "wa-sticker-formatter": "git+https://github.com/yusufbotz/wa-sticker-formatter.git",
+    "wa-sticker-formatter": "git+https://github.com/rashidsiregar28/wa-sticker-formatter.git",
     "yt-search": "^2.8.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yusufbotz/yusuf-botzV1.git"
+    "url": "git+https://github.com/yusufbotz/yusuf-botzV1-main.git"
   },
   "bugs": {
-    "url": "https://github.com/yusufbotz/yusuf-botzV1/issues"
+    "url": "https://github.com/yusufbotz/yusuf-botzV1-main/issues"
   },
-  "homepage": "https://github.com/yusufbotz/yusuf-botzV1#readme",
+  "homepage": "https://github.com/yusufbotz/yusuf-botzV1-main#readme",
   "devDependencies": {
     "json-server": "^0.16.3"
   }
