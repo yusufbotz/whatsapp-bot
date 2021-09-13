@@ -55,7 +55,7 @@
 ## For Windows
 ```bash
 git clone https://github.com/yusufbotz/yusuf-botzV1-main.git
-cd yusuf-botz
+cd yusuf-botzV1-main-master
 npm install
 node main pm2 start main.js
 ```
