@@ -30,7 +30,7 @@ xinz.prefa = 'anjing'
 const start = async(sesion) => {
     xinz.logger.level = 'warn'
 
-    console.log(color(figlet.textSync('Yusuf-Botz', {
+    console.log(color(figlet.textSync('Chika-Bot', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
