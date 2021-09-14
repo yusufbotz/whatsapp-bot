@@ -54,10 +54,10 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/yusufbotz/yusuf-botzV1-main.git
+cd c:\
 cd yusuf-botzV1-main
-npm install
-node main pm2 start main.js
+npm i
+npm start
 ```
 ## For Termux
 - sorry, this repo doesn't support termux :(
