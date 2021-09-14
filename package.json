@@ -11,7 +11,7 @@
     "preinstall": "npm install pm2 -g",
     "start": "node main.js"
   },
-  "author": "Yusuf1654",
+  "author": "rashid28",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "@vitalets/google-translate-api": "^7.0.0",
