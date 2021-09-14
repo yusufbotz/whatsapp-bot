@@ -1,6 +1,6 @@
 "use strict";
-let { WAConnection : _WAConnection } = require("@yusufbotz");
-let { MessageType } = require("@yusufbotz");
+let { WAConnection : _WAConnection } = require("@adiwajshing/baileys");
+let { MessageType } = require("@adiwajshing/baileys");
 const qrcode = require("qrcode-terminal");
 const figlet = require("figlet");
 const fs = require("fs");
